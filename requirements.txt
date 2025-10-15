@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+faiss-cpu
+pillow
+pandas
+numpy
+streamlit
