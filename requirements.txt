@@ -3,7 +3,8 @@ torchvision
 torchaudio
 transformers
 faiss-cpu
-pillow
+Pillow
 pandas
 numpy
-streamlit
+requests
+streamlit==1.50.0
