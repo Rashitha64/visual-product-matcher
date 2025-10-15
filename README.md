@@ -1,1 +1,5 @@
-# visual-product-matcher
+This project builds a Visual Product Matcher, an interactive Streamlit web application that returns visually similar products for a user-uploaded image. Each product image in the catalog is represented as a fixed-length vector using a pre-trained CLIP (ViT-B/32) visual encoder. The vectors are L2-normalized so that cosine similarity can be computed efficiently as an inner product. These embeddings are indexed using FAISS (IndexFlatIP) to enable fast nearest-neighbor search across the product catalog, which contains at least 50 items sourced from open image URLs.
+
+The Streamlit interface allows users to upload an image, view the query, and instantly receive visually similar product results with their similarity scores. The system uses PyTorch and Hugging Face Transformers for feature extraction, FAISS for similarity search, and Pandas for lightweight data management. The app caches embeddings and model weights for efficient reloading and smooth user experience.
+
+The project uses only open-source libraries and can be deployed easily to Streamlit Cloud or similar free hosting services. It emphasizes clarity, modular design, and reproducibility — separating the embedding/indexing logic from the visualization and interaction layer.
