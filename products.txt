@@ -1,0 +1,51 @@
+id,name,category,image_url
+1,Blue Sneaker,Shoes,https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg
+2,Red High Heel,Shoes,https://images.pexels.com/photos/19090/pexels-photo.jpg
+3,White Running Shoe,Shoes,https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg
+4,Black Leather Jacket,Clothing,https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg
+5,Denim Jeans,Clothing,https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg
+6,Yellow T-Shirt,Clothing,https://images.pexels.com/photos/1005419/pexels-photo-1005419.jpeg
+7,Green Hoodie,Clothing,https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg
+8,Watch with Black Strap,Accessory,https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg
+9,Silver Ring,Accessory,https://images.pexels.com/photos/208988/pexels-photo-208988.jpeg
+10,Wooden Chair,Furniture,https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg
+11,Table Lamp,Home,https://images.pexels.com/photos/276671/pexels-photo-276671.jpeg
+12,Leather Wallet,Accessory,https://images.pexels.com/photos/921831/pexels-photo-921831.jpeg
+13,Black Backpack,Accessory,https://images.pexels.com/photos/306517/pexels-photo-306517.jpeg
+14,White Dress,Clothing,https://images.pexels.com/photos/196665/pexels-photo-196665.jpeg
+15,Red Dress,Clothing,https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg
+16,Black Sunglasses,Accessory,https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg
+17,Smartphone,Electronics,https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg
+18,Headphones,Electronics,https://images.pexels.com/photos/159733/pexels-photo-159733.jpeg
+19,Camera,Electronics,https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg
+20,Blue Car,Vehicle,https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg
+21,Green Plant,Home,https://images.pexels.com/photos/140134/pexels-photo-140134.jpeg
+22,Wall Clock,Home,https://images.pexels.com/photos/280264/pexels-photo-280264.jpeg
+23,Red Sofa,Furniture,https://images.pexels.com/photos/276582/pexels-photo-276582.jpeg
+24,Floor Rug,Home,https://images.pexels.com/photos/276551/pexels-photo-276551.jpeg
+25,White Pillow,Home,https://images.pexels.com/photos/285171/pexels-photo-285171.jpeg
+26,Black Boots,Footwear,https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg
+27,Gray Sneakers,Footwear,https://images.pexels.com/photos/2529151/pexels-photo-2529151.jpeg
+28,Leather Belt,Accessory,https://images.pexels.com/photos/189355/pexels-photo-189355.jpeg
+29,Red Hat,Accessory,https://images.pexels.com/photos/361754/pexels-photo-361754.jpeg
+30,Blue Jeans,Clothing,https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg
+31,White Shirt,Clothing,https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg
+32,Black Pants,Clothing,https://images.pexels.com/photos/428339/pexels-photo-428339.jpeg
+33,Wooden Table,Furniture,https://images.pexels.com/photos/276551/pexels-photo-276551.jpeg
+34,Glass Vase,Home,https://images.pexels.com/photos/276366/pexels-photo-276366.jpeg
+35,Ceramic Mug,Home,https://images.pexels.com/photos/414739/pexels-photo-414739.jpeg
+36,Orange Jacket,Clothing,https://images.pexels.com/photos/1707692/pexels-photo-1707692.jpeg
+37,Purple Sweater,Clothing,https://images.pexels.com/photos/1155567/pexels-photo-1155567.jpeg
+38,Blue Cap,Accessory,https://images.pexels.com/photos/19090/pexels-photo.jpg
+39,Cycling Helmet,Accessory,https://images.pexels.com/photos/276467/pexels-photo-276467.jpeg
+40,Desk Lamp,Home,https://images.pexels.com/photos/414471/pexels-photo-414471.jpeg
+41,Wooden Shelf,Furniture,https://images.pexels.com/photos/276551/pexels-photo-276551.jpeg
+42,Green Sofa,Furniture,https://images.pexels.com/photos/276582/pexels-photo-276582.jpeg
+43,Black Desk,Furniture,https://images.pexels.com/photos/276551/pexels-photo-276551.jpeg
+44,White Chair,Furniture,https://images.pexels.com/photos/276582/pexels-photo-276582.jpeg
+45,Gold Necklace,Accessory,https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg
+46,Silver Earrings,Accessory,https://images.pexels.com/photos/208988/pexels-photo-208988.jpeg
+47,Red Phone Case,Electronics,https://images.pexels.com/photos/306244/pexels-photo-306244.jpeg
+48,Blue Water Bottle,Accessory,https://images.pexels.com/photos/414974/pexels-photo-414974.jpeg
+49,Black Watch,Accessory,https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg
+50,White Handbag,Accessory,https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg
